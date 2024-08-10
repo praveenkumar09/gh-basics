@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Changes made in the master branch!.
-=======
-I changed this in the feature branch!.
->>>>>>> feature-branch
